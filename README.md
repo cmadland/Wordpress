@@ -1,2 +1,2 @@
 # Wordpress
-Testinf Github Embed plugin in Wordpress
+Testing Github Embed plugin in Wordpress
